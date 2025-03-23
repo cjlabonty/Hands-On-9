@@ -1,0 +1,15 @@
+C:\Users\sklac\Desktop\Hands-On-9\AnimalApp\obj\Debug\net9.0\AnimalApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sklac\Desktop\Hands-On-9\AnimalApp\obj\Debug\net9.0\AnimalApp.AssemblyInfoInputs.cache
+C:\Users\sklac\Desktop\Hands-On-9\AnimalApp\obj\Debug\net9.0\AnimalApp.AssemblyInfo.cs
+C:\Users\sklac\Desktop\Hands-On-9\AnimalApp\obj\Debug\net9.0\AnimalApp.csproj.CoreCompileInputs.cache
+C:\Users\sklac\Desktop\Hands-On-9\AnimalApp\obj\Debug\net9.0\AnimalApp.sourcelink.json
+C:\Users\sklac\Desktop\Hands-On-9\AnimalApp\bin\Debug\net9.0\AnimalApp.exe
+C:\Users\sklac\Desktop\Hands-On-9\AnimalApp\bin\Debug\net9.0\AnimalApp.deps.json
+C:\Users\sklac\Desktop\Hands-On-9\AnimalApp\bin\Debug\net9.0\AnimalApp.runtimeconfig.json
+C:\Users\sklac\Desktop\Hands-On-9\AnimalApp\bin\Debug\net9.0\AnimalApp.dll
+C:\Users\sklac\Desktop\Hands-On-9\AnimalApp\bin\Debug\net9.0\AnimalApp.pdb
+C:\Users\sklac\Desktop\Hands-On-9\AnimalApp\obj\Debug\net9.0\AnimalApp.dll
+C:\Users\sklac\Desktop\Hands-On-9\AnimalApp\obj\Debug\net9.0\refint\AnimalApp.dll
+C:\Users\sklac\Desktop\Hands-On-9\AnimalApp\obj\Debug\net9.0\AnimalApp.pdb
+C:\Users\sklac\Desktop\Hands-On-9\AnimalApp\obj\Debug\net9.0\AnimalApp.genruntimeconfig.cache
+C:\Users\sklac\Desktop\Hands-On-9\AnimalApp\obj\Debug\net9.0\ref\AnimalApp.dll
