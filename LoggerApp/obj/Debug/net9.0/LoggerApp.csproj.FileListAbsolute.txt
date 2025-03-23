@@ -1,0 +1,15 @@
+C:\Users\sklac\Desktop\Hands-On-9\LoggerApp\bin\Debug\net9.0\LoggerApp.exe
+C:\Users\sklac\Desktop\Hands-On-9\LoggerApp\bin\Debug\net9.0\LoggerApp.deps.json
+C:\Users\sklac\Desktop\Hands-On-9\LoggerApp\bin\Debug\net9.0\LoggerApp.runtimeconfig.json
+C:\Users\sklac\Desktop\Hands-On-9\LoggerApp\bin\Debug\net9.0\LoggerApp.dll
+C:\Users\sklac\Desktop\Hands-On-9\LoggerApp\bin\Debug\net9.0\LoggerApp.pdb
+C:\Users\sklac\Desktop\Hands-On-9\LoggerApp\obj\Debug\net9.0\LoggerApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sklac\Desktop\Hands-On-9\LoggerApp\obj\Debug\net9.0\LoggerApp.AssemblyInfoInputs.cache
+C:\Users\sklac\Desktop\Hands-On-9\LoggerApp\obj\Debug\net9.0\LoggerApp.AssemblyInfo.cs
+C:\Users\sklac\Desktop\Hands-On-9\LoggerApp\obj\Debug\net9.0\LoggerApp.csproj.CoreCompileInputs.cache
+C:\Users\sklac\Desktop\Hands-On-9\LoggerApp\obj\Debug\net9.0\LoggerApp.sourcelink.json
+C:\Users\sklac\Desktop\Hands-On-9\LoggerApp\obj\Debug\net9.0\LoggerApp.dll
+C:\Users\sklac\Desktop\Hands-On-9\LoggerApp\obj\Debug\net9.0\refint\LoggerApp.dll
+C:\Users\sklac\Desktop\Hands-On-9\LoggerApp\obj\Debug\net9.0\LoggerApp.pdb
+C:\Users\sklac\Desktop\Hands-On-9\LoggerApp\obj\Debug\net9.0\LoggerApp.genruntimeconfig.cache
+C:\Users\sklac\Desktop\Hands-On-9\LoggerApp\obj\Debug\net9.0\ref\LoggerApp.dll
